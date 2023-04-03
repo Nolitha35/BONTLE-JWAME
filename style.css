@@ -1,0 +1,35 @@
+
+.carousel-inner{
+    width: 1551px;
+    height: 732px;
+}
+h1{
+    position: relative;top: -400px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+#nav-logo{
+    width: 100px;
+}
+footer {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  footer p {
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+  
+  @media (min-width: 768px) {
+    footer {
+      padding: 30px;
+    }
+    
+    footer p {
+      font-size: 16px;
+    }
+  }
+  
