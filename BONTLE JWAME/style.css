@@ -41,4 +41,7 @@ footer {
   #p1{
     position: relative; top: 200px;
   }
+  #Home{
+    position: relative; top: -300px;
+  }
   
