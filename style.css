@@ -2,6 +2,7 @@
 .carousel-inner{
     width: 1551px;
     height: 732px;
+    z-index: -1;
 }
 h1{
     position: relative;top: -400px;
@@ -11,6 +12,12 @@ h1{
 }
 #nav-logo{
     width: 100px;
+}
+h5{
+  text-align: center;
+}
+a{
+  position: relative; left: 60px;
 }
 footer {
     background-color: #f7f7f7;
@@ -31,5 +38,33 @@ footer {
     footer p {
       font-size: 16px;
     }
+    h1{
+        position: relative; top: -700px;
+    }
   }
+#sen{
+  height: 210px;
+}
+  About{
+    position: relative; 
+  }
+  #p1{
+    position: relative; top: 200px;
+  }
+  #Home{
+    position: relative; top: -300px;
+  }
+  #Contact{
+    width: 500px;
+  }
+  #ser{
+    height: 213px;
+  }
+  #nat{
+    height: 213px;
+  }
+  #Contact5{
+    position: relative; top: 60px
+  }
+  
   
